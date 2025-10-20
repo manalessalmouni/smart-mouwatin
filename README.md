@@ -1,6 +1,9 @@
 # 🧭 Smart Mouwatin
 
-![Smart Mouwatin Logo](./logo_smartmouwatin.png)
+<p align="center">
+  <img src="./logo_smartmouwatin.png" alt="Smart Mouwatin Logo" width="160"/>
+</p>
+
 
 ## 🧩 Project Description
 
