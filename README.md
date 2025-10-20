@@ -30,6 +30,13 @@ These gaps make procedures long, confusing, and frustrating.
 - 💻 Works on both **desktop** and **mobile**.
 
 ---
+### 🎥 Demo
+
+[▶️ Watch the demo on YouTube](https://youtu.be/MtULYWsYSgA)
+
+[![Demo Thumbnail](https://img.youtube.com/vi/MtULYWsYSgA/hqdefault.jpg)](https://youtu.be/MtULYWsYSgA)
+
+---
 
 ### ⚙️ Key Features
 
@@ -47,13 +54,7 @@ These gaps make procedures long, confusing, and frustrating.
 
 ---
 
-### 🎥 Demo
 
-[▶️ Watch the demo on YouTube](https://youtu.be/MtULYWsYSgA)
-
-[![Demo Thumbnail](https://img.youtube.com/vi/MtULYWsYSgA/hqdefault.jpg)](https://youtu.be/MtULYWsYSgA)
-
----
 
 ### 🇲🇦 Vision
 
