@@ -1,17 +1,17 @@
-# 🧭 Smart Mouwatin
+#  Smart Mouwatin
 
 <p align="center">
   <img src="./logo_smartmouwatin.png" alt="Smart Mouwatin Logo" width="160"/>
 </p>
 
 
-## 🧩 Project Description
+## Project Description
 
 **Smart Mouwatin** is a simple and citizen-focused platform that helps **Moroccan citizens** easily access the administrative information they need.
 
 ---
 
-### 💡 Problem Statement
+###  Problem Statement
 
 Many citizens struggle because they don’t know:
 - 📄 Which **documents** are required for their specific situation.
@@ -21,13 +21,13 @@ These gaps make procedures long, confusing, and frustrating.
 
 ---
 
-### 🚀 Solution
+###  Solution
 
 **Smart Mouwatin** provides a clear and accessible experience:
-- 🗂️ Lists the **required documents** for each procedure in a simple way.
-- 🗺️ Shows **where to go** based on the user’s **current location**.
-- 🗣️ Lets users **ask questions by voice or text**, even if they cannot read or write.
-- 💻 Works on both **desktop** and **mobile**.
+- Lists the **required documents** for each procedure in a simple way.
+- Shows **where to go** based on the user’s **current location**.
+- Lets users **ask questions by voice or text**, even if they cannot read or write.
+- Works on both **desktop** and **mobile**.
 
 ---
 ### 🎥 Demo
@@ -38,7 +38,7 @@ These gaps make procedures long, confusing, and frustrating.
 
 ---
 
-### ⚙️ Key Features
+### Key Features
 
 - Automatic location detection  
 - Intelligent assistant for administrative questions  
@@ -47,7 +47,7 @@ These gaps make procedures long, confusing, and frustrating.
 
 ---
 
-### 🧠 Technologies Used
+###  Technologies Used
 
 - **Backend:** FastAPI, LangChain (RAG), ChromaDB, Sentence Transformers, Gemini API  
 - **Frontend:** React.js, TailwindCSS, Vite  
